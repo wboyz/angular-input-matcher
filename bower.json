@@ -1,0 +1,27 @@
+{
+  "name": "angular-input-matcher",
+  "authors": [
+    "Bertalan Verebelyi <bertalan.verebelyi@gmail.com>",
+    "Csaba Verebelyi <csaba.verebelyi@gmail.com>"
+  ],
+  "description": "Check if two input has the same value.",
+  "main": "dist/wb-matcher.js",
+  "keywords": [
+    "angular",
+    "directive",
+    "password",
+    "input"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5"
+  }
+}

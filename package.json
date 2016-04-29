@@ -1,0 +1,31 @@
+{
+  "name": "angular-input-matcher",
+  "version": "0.1.0",
+  "description": "Check if two inputs have the same value.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wboyz/angular-input-matcher.git"
+  },
+  "keywords": [
+    "angular",
+    "directive",
+    "password",
+    "input"
+  ],
+  "author": "verebelyibertalan <bertalan.verebelyi@gmail.com> (https://github.com/nalatreb)",
+  "contributors": [
+    "verebelyicsaba <csaba.verebelyi@gmail.com> (https://github.com/rannien)",
+    "verebelyibertalan <bertalan.verebelyi@gmail.com> (https://github.com/nalatreb)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wboyz/angular-md-toast-helper/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0"
+  }
+}
