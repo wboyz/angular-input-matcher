@@ -4,7 +4,7 @@
     "Bertalan Verebelyi <bertalan.verebelyi@gmail.com>",
     "Csaba Verebelyi <csaba.verebelyi@gmail.com>"
   ],
-  "description": "Check if two input has the same value.",
+  "description": "Check if two inputs have the same value.",
   "main": "dist/wb-matcher.js",
   "keywords": [
     "angular",
